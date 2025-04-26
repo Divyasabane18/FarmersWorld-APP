@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842748119587",
+    "project_id": "farmers-world-861a8",
+    "storage_bucket": "farmers-world-861a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842748119587:android:568ce11e064df6f38a7f96",
+        "android_client_info": {
+          "package_name": "com.example.farmersworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842748119587-bv01e63jnukulomn08t2ovu3352lhsvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-Y_TbDpqqtcSx2PzlDfaAYimnOVFG7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842748119587-bv01e63jnukulomn08t2ovu3352lhsvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
